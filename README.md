@@ -15,26 +15,26 @@ This repository includes the IHSG and #TolakUUTNI projects. The Danantara notebo
 
 ## Reports
 <p align="center">
-  <img src="reports\danantara_llm_emotion.png" width="50%" />
-  <img src="reports\danantara_llm_sentiment.png" width="50%" />
+  <img src="reports\danantara_llm_emotion.png" width="30%" />
+  <img src="reports\danantara_llm_sentiment.png" width="30%" />
 </p>
 <p align="center">
-  <img src="reports\danantara_wordcloud_anger" width="33%" />
-  <img src="reports\danantara_wordcloud_fear.png" width="33%" />
-  <img src="reports\danantara_wordcloud_trust.png" width="33%" />
+  <img src="reports\danantara_wordcloud_anger" width="20%" />
+  <img src="reports\danantara_wordcloud_fear.png" width="20%" />
+  <img src="reports\danantara_wordcloud_trust.png" width="20%" />
 </p>
 <p align="center">
-  <img src="reports\danantara_wordcloud_positive" width="33%" />
-  <img src="reports\danantara_wordcloud_neutral.png" width="33%" />
-  <img src="reports\danantara_wordcloud_negative.png" width="33%" />
+  <img src="reports\danantara_wordcloud_positive" width="20%" />
+  <img src="reports\danantara_wordcloud_neutral.png" width="20%" />
+  <img src="reports\danantara_wordcloud_negative.png" width="20%" />
 </p>
 <p align="center">
-  <img src="reports\ihsg_llm_emotion_otime1" width="33%" />
-  <img src="reports\ihsg_llm_sentiment_otime3.png" width="33%" />
+  <img src="reports\ihsg_llm_emotion_otime1" width="30%" />
+  <img src="reports\ihsg_llm_sentiment_otime3.png" width="30%" />
 </p>
 <p align="center">
-  <img src="reports\ihsg_llm_sentiment" width="33%" />
-  <img src="reports\ihsg_llm_emotion.png" width="33%" />
+  <img src="reports\ihsg_llm_sentiment" width="30%" />
+  <img src="reports\ihsg_llm_emotion.png" width="30%" />
 </p>
 
 
