@@ -48,7 +48,7 @@ Step-by-step explanations of the analysis are written in the articles, you can t
 
 ## Libraries used
 - `pandas` for data manipulation and I/O.
-- `transformers`, for labeling and training models.
+- `transformers` for labeling and training models.
 - `groq` to call LLMs via API (used DeepSeek).
 - `re` for data cleaning and keyword extraction.
 - `plotly` and `Kaleido` for interactive and exportable visualizations (I’m a big `plotly` fan!).
